@@ -18,7 +18,6 @@ class LoginPage implements ActionListener,MouseListener
 	JButton loginButton,resetButton,cancelButton;
 	JSeparator sp,sp2; 
 	String dbuser,dbpass;
-	
 	public LoginPage()
 	{
 		frame=new JFrame("Login Frame");
